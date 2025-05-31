@@ -1,2 +1,2 @@
 # git_demo
-git &amp; githum
+git &amp; github
